@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jakub Dralus, 2nd year student of Computer Science in Computer Engineering
+- I’m Jakub Dralus, 2nd year student of Computer Science in Computer Engineering
   at Cracow's University of Technology
-- 🌱 I’m currently learning Java, SQL, C/C++ 
+- I’m currently learning Java, Spring Boot, mySQL, PostgreSQL, C/C++ 
 
 
 <!---
