@@ -1,6 +1,6 @@
 - I’m Jakub Dralus, 3rd year student of Computer Science in Computer Engineering
   at Cracow's University of Technology
-- I’m currently learning Java Spring Boot, PostgreSQL, Typescript, React, Pytorch, AWS, Java EE, JUnit
+- I’m currently learning Java Spring Boot, PostgreSQL, Typescript, React, Pytorch, AWS, Java EE, JUnit, Docker
 
 
 
