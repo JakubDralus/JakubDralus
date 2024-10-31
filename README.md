@@ -1,2 +1,2 @@
 - I’m Jakub Dralus, 4th year student of **Computer Science in Computer Engineering** at **Cracow's University of Technology**
-- I’m currently learning: Spring Boot, React, Google Cloud Paltform, Docker, CI/CD, app architecture
+- I’m currently learning: Spring Boot, React, Google Cloud Paltform, Docker, CI/CD
